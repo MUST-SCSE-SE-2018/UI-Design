@@ -14,7 +14,7 @@ There are 3 types of UI Design, as following:
       + System : Windows 10 64bits
       + Language : Python 3.7 Anaconda
       + IDE : PyCharm 2020.2.2 (Community Edition)
-  + User Manual : Run directly
+  + User Manual : Run `python main.py` directly
 
 3. E-commerce Platform Angel Delivery
   + [Figma Demo](https://www.figma.com/file/Kn2CrM39fkGpzslPXWKH5L/Angel-Delivery-Platform-Mobile?node-id=127%3A2)
