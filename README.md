@@ -1,18 +1,9 @@
 # UI-Design
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/KennardWang/UI-Designn" />
+  <img src="https://img.shields.io/github/stars/KennardWang/UI-Design" />
   <img src="https://img.shields.io/github/license/KennardWang/UI-Design" />
   <img src="https://img.shields.io/badge/maintenance-No-red" />
-</div>
-
-<br>
-
-<div align=center>
-  <video width="70%" autoplay>
-  <source src="https://kennardwang.github.io/ImageSource/Ecommerce-UI-Design/MusicPlayer.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
 </div>
 
 <br>
@@ -59,9 +50,11 @@ git clone https://github.com/KennardWang/UI-Design.git
   python main.py
   ```
 
+  + [Watch the full demo](https://kennardwang.github.io/ImageSource/Ecommerce-UI-Design/MusicPlayer.mp4)
+
 + App prototypes of the music player on PC and mobile
 
-  + [Look the full demo](https://kennardwang.github.io/ImageSource/Ecommerce-UI-Design/Prototype.mp4)
+  + [Watch the full demo](https://kennardwang.github.io/ImageSource/Ecommerce-UI-Design/Prototype.mp4)
   + [PC demo](https://www.figma.com/file/Kn2CrM39fkGpzslPXWKH5L/ME102-UI-Design?node-id=0%3A1)
   + [Mobile demo](https://www.figma.com/file/Kn2CrM39fkGpzslPXWKH5L/ME102-UI-Design?node-id=78%3A0)
 
