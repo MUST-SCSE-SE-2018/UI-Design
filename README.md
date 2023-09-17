@@ -1,10 +1,15 @@
 # UI-Design
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/KennardWang/UI-Design?style=for-the-badge&color=FDEE21" />
+
+  [![description](https://img.shields.io/badge/project-Individual-1F1F1F?style=for-the-badge)](https://github.com/KennardWang/UI-Design)
   &nbsp;
-  <img src="https://img.shields.io/github/forks/KennardWang/UI-Design?style=for-the-badge&color=white" />
+  [![stars](https://img.shields.io/github/stars/KennardWang/UI-Design?style=for-the-badge&color=FDEE21)](https://github.com/KennardWang/UI-Design/stargazers)
   &nbsp;
+  [![forks](https://img.shields.io/github/forks/KennardWang/UI-Design?style=for-the-badge&color=white)](https://github.com/KennardWang/UI-Design/forks)
+  &nbsp;
+  [![contributors](https://img.shields.io/github/contributors/KennardWang/UI-Design?style=for-the-badge&color=8BC0D0)](https://github.com/KennardWang/UI-Design/graphs/contributors)
+  
   <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
   &nbsp;
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
