@@ -1,9 +1,19 @@
 # UI-Design
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/KennardWang/UI-Design" />
-  <img src="https://img.shields.io/github/license/KennardWang/UI-Design" />
-  <img src="https://img.shields.io/badge/maintenance-No-red" />
+  <img src="https://img.shields.io/github/stars/KennardWang/UI-Design?style=for-the-badge&color=FDEE21" />
+  &nbsp;
+  <img src="https://img.shields.io/github/forks/KennardWang/UI-Design?style=for-the-badge&color=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
 <br>
@@ -66,7 +76,7 @@ git clone https://github.com/KennardWang/UI-Design.git
 
 ## Maintainers
 
-[@KennardWang](https://github.com/KennardWang).
+![badge](https://img.shields.io/badge/maintenance-NO-EF2D5E) [@KennardWang](https://github.com/KennardWang)
 
 
 
@@ -78,4 +88,4 @@ Feel free to [open an issue](https://github.com/KennardWang/UI-Design/issues) or
 
 ## License
 
-[MIT](LICENSE) © Kennard Wang. ( 2021.1.20 )
+[![license](https://img.shields.io/github/license/KennardWang/UI-Design)](LICENSE) © Kennard Wang ( 2021.1.20 )
