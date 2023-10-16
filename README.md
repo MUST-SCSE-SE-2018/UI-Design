@@ -51,7 +51,7 @@ It is a project of MUST course ***ME102-Ecommerce***, which focuses on UI design
 ## Install
 
 ```
-git clone https://github.com/KennardWang/UI-Design.git
+git clone https://github.com/MUST-SCSE-SE-2018/UI-Design.git
 ```
 
 
