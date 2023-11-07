@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![description](https://img.shields.io/badge/project-Individual-1F1F1F?style=for-the-badge)](https://github.com/KennardWang/UI-Design)
+  [![description](https://img.shields.io/badge/project-Individual-FFB7C5?style=for-the-badge)](https://github.com/KennardWang/UI-Design)
   &nbsp;
   [![stars](https://img.shields.io/github/stars/KennardWang/UI-Design?style=for-the-badge&color=FDEE21)](https://github.com/KennardWang/UI-Design/stargazers)
   &nbsp;
@@ -12,11 +12,11 @@
   
   <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Python-D5C100?style=for-the-badge&logo=python&logoColor=blue" />
   &nbsp;
   <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-00FF7F.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
@@ -43,7 +43,7 @@ It is a project of MUST course ***ME102-Ecommerce***, which focuses on UI design
 | <!--> | <!--> |
 |:---:|:---:|
 | System | Windows 10 x64 |
-| Language | Python 3.7 (Anaconda) |
+| Language | Python 3.7 |
 | IDE | PyCharm 2020.2.2 Community Edition (for the Pytk music player) / Figma (for app prototypes) |
 
 
@@ -65,11 +65,11 @@ git clone https://github.com/MUST-SCSE-SE-2018/UI-Design.git
   python main.py
   ```
 
-  + [Watch the full demo](https://kennardwang.github.io/ImageSource/Ecommerce-UI-Design/MusicPlayer.mp4)
+  + [Watch the full demo](https://kennardwang.github.io/Image-Source/UI-Design/MusicPlayer.mp4)
 
 + App prototypes of the music player on PC and mobile
 
-  + [Watch the full demo](https://kennardwang.github.io/ImageSource/Ecommerce-UI-Design/Prototype.mp4)
+  + [Watch the full demo](https://kennardwang.github.io/Image-Source/UI-Design/Prototype.mp4)
   + [PC demo](https://www.figma.com/file/Kn2CrM39fkGpzslPXWKH5L/ME102-UI-Design?node-id=0%3A1)
   + [Mobile demo](https://www.figma.com/file/Kn2CrM39fkGpzslPXWKH5L/ME102-UI-Design?node-id=78%3A0)
 
